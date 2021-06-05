@@ -19,6 +19,6 @@ This project was developed for TerraCorp ltd. It allows them to identify active 
 - **Python** was the underlying language used in creating this tool.
 - **Requests** was the python library used to retrieve information from the Indeed page.
 - **Pandas** library was used for storing and manipulating the data retrieved.
-- ![Dataframe showing sort by volume](Dataframe image.png)
+- ![Dataframe showing sort by volume](image.png)
 
 
