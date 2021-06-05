@@ -1,6 +1,6 @@
 # Medinah1
 
-[Projects]() | [Resume](resume.md) |[About Me](about.md)
+[Projects]() | [Resume](resume.md) |[About Me](About.md)
 
 ### Latest Projects
 
