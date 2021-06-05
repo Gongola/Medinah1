@@ -1,6 +1,6 @@
 # Medinah1
 
-[Projects](https://google.com) | [Resume](https://google.com) |[About Me](https://google.com)
+[Projects]() | [Resume](resume.md) |[About Me](about.md)
 
 ### Latest Projects
 
