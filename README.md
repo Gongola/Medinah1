@@ -21,4 +21,9 @@ This project was developed for TerraCorp ltd. It allows them to identify active 
 - **Pandas** library was used for storing and manipulating the data retrieved.
 - ![Dataframe showing sort by volume](image.png)
 
-
+### [Visualizing Viable Stocks](https://colab.research.google.com/drive/15_xLM1MUnoYg2h0o6Iv2ZGgYU5kZkdiE)
+This project was developed for TerraCorp ltd. It allows them to identify active stocks for Investment purposes
+- **Python** was the underlying language used in creating this tool.
+- **Requests** was the python library used to retrieve information from the Indeed page.
+- **Pandas** library was used for storing and manipulating the data retrieved.
+- ![Dataframe showing sort by volume](heatmap.png)
