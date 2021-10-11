@@ -3,7 +3,7 @@
 ## Medinah Subair
 Data Scientist in Lagos, NG
 
-* Email - talk2medeenah@gmail.com.com
+* Email - talk2medeenah@gmail.com
 * GitHub - [Gongola](https://github.com/Gongola)
 
 ### Experience
@@ -38,7 +38,7 @@ Lettuce Entertain You Enterprises — Chicago, IL
 ---
 
 #### Languages
-Node.js, JavaScript (React/Redux, Vue), TypeScript, PHP, Python, Bash, HTML5, CSS3, JSON
+Node.js, JavaScript, Python, Sql, HTML5, CSS3, JSON
 
 #### Concepts
 Design Patterns (API Design, MVC), Databases (Postgres, SQL), Authentication (OAuth2, SSO), Linux/UNIX Administration, Version Control (Git), AWS Infrastructure (EC2, Route 53, RDS), Testing (Unit, Component, Integration, End-to-end), Webpack
@@ -57,7 +57,7 @@ A retro game emulator for three platforms. — JavaScript, Node.js
 
 ### Education
 ---
-Bachelor of Professional Studies
-Robert Morris University — Chicago, IL
+Bachelor of Dental Surgery
+University of Lagos - NG
 
 
