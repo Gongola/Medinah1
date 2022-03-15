@@ -1,17 +1,15 @@
 # Medinah1
 
-[Projects]() | [Resume](resume.md) |[About Me](About.md)
+[Projects](README.md) | [Resume](resume.md) |[About Me](About.md)
 
 ### Latest Projects
 
-### [Data Scraping from  times.com](https://colab.research.google.com/gist/Gongola/a123b219e4521764a31e13fcbd50fbd1/data-scraping.ipynb)
-
-### [Indeed Scraper](https://colab.research.google.com/gist/Gongola/667c5f0740a6bc989aff052e7b014b31/indeed-scraper.ipynb)
-This project is targeted at aspiring job applicants. It allows a job seeker to enter a search criteria. It returns a list of recently posted jobs on indeed to the user
+### [Banglore Housing Project](https://colab.research.google.com/gist/Gongola/5d02997d95c0d3edfea5ff8567ade2f8/banglore-housing.ipynb)
+This project is targeted at Home buyers considering getting new homes in Bablore region of India. A Price prediction model would be used to estimate prices of homes based on location, tatal square feet, number of bathrooms.
 - **Python** was the underlying language used in creating this tool.
-- **Requests** was the python library used to retrieve information from the Indeed page.
-- **Pandas** library was used for storing and manipulating the data retrieved.
-
+- **Pandas** and **Numpy** were used for storing and manipulating the data retrieved.
+- **Matplotlib** was used for data visualization.
+- **Sklearn** was used for model building.
 
 
 ### [Determining Viable Stocks](https://colab.research.google.com/drive/1qyWQ6ok4GtmuuEdAr1L0NY9Gmn2AwOyl#scrollTo=Yc0s9snYJsir)
@@ -21,9 +19,4 @@ This project was developed for TerraCorp ltd. It allows them to identify active 
 - **Pandas** library was used for storing and manipulating the data retrieved.
 - ![Dataframe showing sort by volume](image.png)
 
-### [Visualizing Viable Stocks](https://colab.research.google.com/drive/15_xLM1MUnoYg2h0o6Iv2ZGgYU5kZkdiE)
-This project was developed for TerraCorp ltd. It allows them to identify active stocks for Investment purposes
-- **Python** was the underlying language used in creating this tool.
-- **Requests** was the python library used to retrieve information from the Indeed page.
-- **Pandas** library was used for storing and manipulating the data retrieved.
-- ![Dataframe showing sort by volume](heatmap.png)
+
