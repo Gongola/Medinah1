@@ -5,7 +5,7 @@
 ### Latest Projects
 
 ### [Banglore Housing Project](https://colab.research.google.com/gist/Gongola/5d02997d95c0d3edfea5ff8567ade2f8/banglore-housing.ipynb)
-This project is targeted at Home buyers considering getting new homes in Bablore region of India. A Price prediction model would be used to estimate prices of homes based on location, tatal square feet, number of bathrooms.
+This project is targeted at Home buyers considering getting new homes in Banglore region of India. A Price prediction model would be used to estimate prices of homes based on location, total square feet, number of bathrooms.
 - **Python** was the underlying language used in creating this tool.
 - **Pandas** and **Numpy** were used for storing and manipulating the data retrieved.
 - **Matplotlib** was used for data visualization.
