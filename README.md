@@ -24,4 +24,4 @@ This project was developed for TerraCorp ltd. It allows them to identify active 
 This project was developed for Panele group shareholders to generate sales insights to understand revenue breakdown by cities, years and months, show top 5 customers and top 5 products
 - **Tableau** was the tool used for data cleaning and ETL(Extract, Transform, Load), as well as data visualization (creation of dashboard)
 - **MySql** was the database used for storing and cleaning the data.
-- ![Panele Sales Insight Dashboard](Panele dashboard.png)
+- ![Panele Sales Insight Dashboard](PaneleDashboard.png)
